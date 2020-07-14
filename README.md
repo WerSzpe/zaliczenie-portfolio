@@ -1,6 +1,6 @@
 Zdjęcia w folderze images
 Wzór final_png
-czcionka: Letter Gothic std
+czcionka: Letter Gothic std, z google fonts najbiższa Letter gothic M
 paski menu mniejsze, kolor 7ab3a4
 
 kolor:
