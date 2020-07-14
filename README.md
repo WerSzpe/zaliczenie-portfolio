@@ -14,7 +14,7 @@ kolor:
   - zdjęcia się przytnie
   - tło dbf7ef(jak w headerze)
 - contact
-  - tył zdjęcie z ipadem, kolejna warstwa z w bardzo ciemno zielonym "filtrem" na opacity 85%
+  - tył zdjęcie z ipadem
   - kolor czcionki c3dfcf
 - stopka:
   - bardzo ciemno zielony + tekst c3dfcf

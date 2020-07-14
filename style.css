@@ -49,6 +49,28 @@ body {
     font-size: 4em;
     text-decoration: underline;
 }
+/*contact*/
+.contact-div {
+    background-image: url(images/tylkontakt.jpg);
+}
+.contact-title {
+    color: #c3dfcf !important;
+    font-weight: 700;
+    font-size: 2.85em;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+}
+.contact-element {
+    color: #c3dfcf !important;
+    font-weight: 400;
+    font-size: 1.75em;
+    padding-bottom: 0.5em;
+}
+.ostatni {
+    padding-bottom: 2.25em;
+}
+/*footer*/
+
 footer {
     background-color: rgb(1, 7, 0);
 
@@ -60,6 +82,7 @@ footer {
     color: #b9e9cf;
 }
 
+/*linki*/
 
 a:link{
     color: #a66f60 !important;
