@@ -1,11 +1,16 @@
 body {
     background-color: #dbf7ef !important;
 }
-#header-name {
-    color: #592e22;
+.adam-pic {
+    width: 640px;
+    height: 959px;
 }
-#header-info {
-    color: #a66f60;
+.header-name {
+    color: #592e22 !important;
+
+}
+.header-info {
+    color: #a66f60 !important;
 
 }
 #portfolio-title {
