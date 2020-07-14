@@ -15,7 +15,6 @@ body {
 }
 .header-info {
     color: #a66f60 !important;
-
 }
 
 /*main*/
@@ -24,9 +23,8 @@ body {
     background-attachment: fixed;
     background-image: url(images/tyl-biografii.jpg);
 }
-
 .skills {
-    padding-top: 1.75em;
+    padding-top: 7.95em;
 }
 .left-main-text, .right-main-text, .bio-title2, .bio-title {
     color: #88ceba !important;
