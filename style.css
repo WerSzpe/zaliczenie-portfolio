@@ -49,6 +49,18 @@ body {
     font-size: 4em;
     text-decoration: underline;
 }
+footer {
+    background-color: rgb(1, 7, 0);
+
+}
+.foot {
+    float: left;
+    padding-left: 3em;
+    padding-right: 3em;
+    color: #b9e9cf;
+}
+
+
 a:link{
     color: #a66f60 !important;
 }
@@ -62,3 +74,17 @@ a:visited{
 a:hover{
     color: #a66f60 !important;
 }
+.foot:link{
+    color: #b9e9cf !important;
+}
+
+
+.foot:visited{
+    color: #b9e9cf !important;
+}
+
+
+.foot:hover{
+    color: #2f5241 !important;
+}
+
