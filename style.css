@@ -1,6 +1,17 @@
 body {
     background-color: #dbf7ef !important;
 }
-.righ-main-text {
-    text-align: end;
+#header-name {
+    color: #592e22;
+    font-size: 6em;
+}
+#header-info {
+    color: #a66f60;
+    font-size: 4em;
+    float: left;
+}
+#portfolio-title {
+    text-align: center;
+    color: #a66f60 !important;
+    font-size: 4em;
 }
