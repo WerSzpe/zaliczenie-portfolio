@@ -2,7 +2,7 @@ body {
     background-color: #dbf7ef !important;
     font-family: 'Nanum Gothic Coding', monospace !important;
     font-style: normal !important;
-    font-weight: 400 !important;
+    font-weight: 700 !important;
 }
 .caption {
     padding-top: 12.5em;
@@ -15,6 +15,24 @@ body {
     color: #a66f60 !important;
 
 }
+.skill-bio {
+    background-attachment: fixed;
+    background-image: url(images/tyl-biografii.jpg);
+}
+.skills {
+    padding-top: 1.85em;
+}
+.left-main-text, .right-main-text, .bio-title2, .bio-title {
+    color: #88ceba !important;
+    font-weight: 400;
+}
+.bio-title, .bio-title2 {
+    font-weight: 700;
+}
+.bio-title2, .right-main-text {
+    text-align: right;
+}
+
 #portfolio-title {
     text-align: center;
     color: #a66f60 !important;
