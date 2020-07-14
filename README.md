@@ -22,3 +22,6 @@ kolor:
   portfolio - zdjęcia:
     - rozmiar 13.9 x 19.16 cm około, zdjęcie - zdjęcie ok 2,12 cm, zdjęcie - bok 1,27 to się ustawi jakoś, przy mniejszym rozmiarze ekranu niech się ustawiają w rzędzie
     - prawe to lewe a lewe to prawe, nie rozróżniam
+
+UWAGI:
+- przy contact dać formularz jakiś prosty/ mape  z google
