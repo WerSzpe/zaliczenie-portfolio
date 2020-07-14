@@ -39,4 +39,20 @@ body {
     text-align: center;
     color: #a66f60 !important;
     font-size: 4em;
+    text-decoration: underline;
+    align: center !important;
+
+}
+a:link{
+    color: #a66f60 !important;
+}
+
+
+a:visited{
+    color: #a66f60 !important;
+}
+
+
+a:hover{
+    color: #a66f60 !important;
 }
