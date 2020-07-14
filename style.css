@@ -73,6 +73,14 @@ body {
 .form-element {
     padding-top: 4em;
 }
+#email-input{
+    background-color: rgba(12, 51, 33, 0.466);
+    border: 1px solid #c3dfcf;
+}
+textarea#texta {
+    background-color: rgba(12, 51, 33, 0.466);
+    border: 1px solid #c3dfcf;
+}
 /*footer*/
 
 footer {
