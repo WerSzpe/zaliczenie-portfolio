@@ -44,12 +44,10 @@ body {
 /*portfolio*/
 
 #portfolio-title {
-    text-align: center;
+    text-align: center !important;
     color: #a66f60 !important;
     font-size: 4em;
     text-decoration: underline;
-    align: center !important;
-
 }
 a:link{
     color: #a66f60 !important;
