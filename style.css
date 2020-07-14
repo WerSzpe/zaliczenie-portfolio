@@ -18,6 +18,8 @@ body {
 .skill-bio {
     background-attachment: fixed;
     background-image: url(images/tyl-biografii.jpg);
+    background-color: black;
+    opacity: 0.9;
 }
 .skills {
     padding-top: 1.85em;
