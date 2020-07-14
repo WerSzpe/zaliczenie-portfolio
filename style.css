@@ -1,5 +1,8 @@
 body {
     background-color: #dbf7ef !important;
+    font-family: 'Nanum Gothic Coding', monospace !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
 }
 .caption {
     padding-top: 12.5em;
