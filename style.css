@@ -3,12 +3,10 @@ body {
 }
 #header-name {
     color: #592e22;
-    font-size: 6em;
 }
 #header-info {
     color: #a66f60;
-    font-size: 4em;
-    float: left;
+
 }
 #portfolio-title {
     text-align: center;
