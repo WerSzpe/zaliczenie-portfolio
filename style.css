@@ -70,6 +70,9 @@ body {
     padding-bottom: 2.25em;
 }
 
+.form-element {
+    padding-top: 4em;
+}
 /*footer*/
 
 footer {
