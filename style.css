@@ -59,27 +59,42 @@ body {
     font-size: 2.85em;
     padding-top: 0.75em;
     padding-bottom: 0.75em;
+    padding-left: 2.5em;
 }
 .contact-element {
     color: #c3dfcf !important;
     font-weight: 400;
     font-size: 1.75em;
     padding-bottom: 0.5em;
+    padding-left: 2.5em;
 }
 .ostatni {
     padding-bottom: 2.25em;
 }
-
+form {
+    float: right;
+    padding-right: 15.6em;
+}
 .form-element {
     padding-top: 4em;
 }
 #email-input{
-    background-color: rgba(12, 51, 33, 0.466);
+    background-color: rgba(152, 235, 194, 0.521);
     border: 1px solid #c3dfcf;
+
 }
 textarea#texta {
-    background-color: rgba(12, 51, 33, 0.466);
+    background-color: rgba(152, 235, 194, 0.521);
     border: 1px solid #c3dfcf;
+}
+::placeholder {
+    color: rgb(206, 241, 217);
+}
+#button-color {
+    background-color: #c3dfcf;
+    color: #592e22;
+    font-weight: 700;
+    margin-left: 2.9em;
 }
 /*footer*/
 
