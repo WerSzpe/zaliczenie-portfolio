@@ -1,9 +1,8 @@
 body {
     background-color: #dbf7ef !important;
 }
-.adam-pic {
-    width: 640px;
-    height: 959px;
+.caption {
+    padding-top: 12.5em;
 }
 .header-name {
     color: #592e22 !important;
