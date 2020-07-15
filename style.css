@@ -20,8 +20,9 @@ body {
     cursor: pointer;
 }
  .dropdown{
-    position: relative;
-
+    position: fixed;
+    top:4.5em;
+    right: 0;
     display: inline-block;
 
     margin-left: auto;
@@ -30,7 +31,7 @@ body {
 }
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: fixed;
     left: 70em;
     background-color: #2f5241;
     color:#88ceba !important;
