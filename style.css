@@ -32,8 +32,8 @@ body {
 .dropdown-content {
     display: none;
     position: fixed;
-    top:10%;
-    left: 84.3em;
+    top:71px;
+    right: 10px;
     background-color: #2f5241;
     color:#88ceba !important;
     text-align: center;
