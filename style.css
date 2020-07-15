@@ -75,7 +75,7 @@ body {
     padding-left: 2.5em;
 }
 .ostatni {
-    padding-bottom: 2.25em;
+    padding-bottom: 5.25em;
 }
 form {
     float: right;
@@ -107,8 +107,9 @@ textarea#texta {
 
 .footer {
     background-color: rgb(1, 7, 0);
+    width: 100%;
     text-align: center;
-
+    color: #b9e9cf !important;
     width: 100%;
     float: left;
     padding-left: 3em;
@@ -124,40 +125,42 @@ ol{
     line-height: 200%;
     list-style-type: none;
     display: inline-block;
-
+    color: #b9e9cf !important;
 }
 
 
 ol a{
     display: block;
-    color: #c3dfcf;
+    color: #c3dfcf !important;
     text-decoration: none;
+
 }
 
 ol > li{
     float: left;
     width: 150px;
     height: 40px;
+    color: #b9e9cf !important;
 }
 
 li#styl{
-    color: #ffffff;
+    color: #b9e9cf !important;
 }
 
 /*linki*/
 
 a:link{
-    color: #a66f60 !important;
+    color: #a66f60;
 }
 
 
 a:visited{
-    color: #a66f60 !important;
+    color: #a66f60;
 }
 
 
 a:hover{
-    color: #a66f60 !important;
+    color: #a66f60;
 }
 .foot:link{
     color: #b9e9cf !important;
