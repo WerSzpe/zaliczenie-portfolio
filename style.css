@@ -32,7 +32,8 @@ body {
 .dropdown-content {
     display: none;
     position: fixed;
-    left: 70em;
+    top:10%;
+    left: 82.5em;
     background-color: #2f5241;
     color:#88ceba !important;
     min-width: 160px;
