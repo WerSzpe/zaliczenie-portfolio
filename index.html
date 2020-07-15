@@ -15,20 +15,21 @@
     <title>Roman's Portfolio</title>
   </head>
   <body>
-    <!--MENU-->
-    <div class="dropdown" id="toggle">
-        <span class="menu">MENU</span>
-        <div class="dropdown-content">
-            <p"><a href="#">Home</a></p>
-            <p><a href="#">Skills</a></p>
-            <p ><a href="#">Portfolio</a></p>
-            <p ><a href="#">Contact</a></p>
-        </div>
-    </div>
-    <div style="clear: both;"></div>
-    <!--HEADER-->
     <div class="container">
-        <div class = "row">
+        <!--MENU-->
+
+        <div class="dropdown">
+            <span class="menu">MENU</span>
+            <div class="dropdown-content">
+                <p"><a href="#Home">Home</a></p>
+                <p><a href="#Bio_Skill">Skills</a></p>
+                <p ><a href="#Portfolio">Portfolio</a></p>
+                <p ><a href="#Contact">Contact</a></p>
+            </div>
+        </div>
+
+        <!--HEADER-->
+        <div class = "row" id="Home">
             <div class="col">
                 <img class="img-fluid"src="images/man-holding-laptop-computer-with-both-hands-2036656.png">
             </div>
@@ -39,7 +40,7 @@
             </div>
         </div>
     <!--BIOGRAPHY-->
-        <div class="row skill-bio">
+        <div class="row skill-bio" id="Bio_Skill">
             <div class="col-4">
                 <h2 class="bio-title">BIOGRAPHY</h2>
                 <div class="left-main-text">10/31/2000 Born in Zlotoryja</div>
@@ -56,7 +57,7 @@
         </div>
 
     <!--PORTFOLIO-->
-        <div class="row justify-content-center">
+        <div class="row justify-content-center" id="Portfolio">
                 <h1 id="portfolio-title" class="display-3" >PORTFOLIO </h1>
             <!-- tu wstaw menu -->
             <!-- tu wstaw linie -->
@@ -81,7 +82,7 @@
 
     <!--CONTACT-->
 
-        <div class="row contact-div">
+        <div class="row contact-div" id="Contact">
             <!-- tu wstaw menu-->
             <div class="col-4">
                 <div class="contact-title">CONTACT</div>
@@ -107,9 +108,9 @@
     <!--FOOTER-->
     <div class="footer">
         <ol>
-            <li id="styl"><a href="#">Home</a></li>
-            <li><a href="#">Skills</a></li>
-            <li><a href="#">Portfolio</a></li>
+            <li id="styl"><a href="#Home">Home</a></li>
+            <li><a href="#Bio_Skill">Skills</a></li>
+            <li><a href="#Portfolio">Portfolio</a></li>
         </ol>
 
     </div>
