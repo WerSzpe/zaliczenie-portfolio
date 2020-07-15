@@ -8,7 +8,7 @@ body {
 /*Menu*/
 
 .menu {
-    color: #592e22 ;
+    color: #2f5241 !important ;
     background-color: #88ceba;
     padding-left: 0.9em;
     padding-right: 0.9em;
@@ -36,6 +36,7 @@ body {
     left: 84.3em;
     background-color: #2f5241;
     color:#88ceba !important;
+    text-align: center;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
@@ -43,6 +44,7 @@ body {
 }
 .dropdown:hover .dropdown-content {
     display: block;
+    color:#88ceba !important;
   }
 
 /*header */
@@ -50,7 +52,7 @@ body {
     padding-top: 12.5em;
 }
 .header-name {
-    color: #592e22 !important;
+    color: #592e22 ;
 
 }
 .header-info {
@@ -201,6 +203,16 @@ a:visited{
 
 a:hover{
     color: #a66f60;
+}
+
+.Drop_Element:link{
+    color:#88ceba !important;
+}
+.Drop_Element:visited{
+    color:#88ceba !important;
+}
+.Drop_Element:hover{
+    color:#cef5df !important;
 }
 .foot:link{
     color: #b9e9cf !important;
