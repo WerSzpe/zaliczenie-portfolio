@@ -21,7 +21,9 @@ body {
 }
  .dropdown{
     position: relative;
+
     display: inline-block;
+
     margin-left: auto;
     margin-right: 0;
     color:#88ceba !important;
@@ -29,6 +31,7 @@ body {
 .dropdown-content {
     display: none;
     position: absolute;
+    left: 70em;
     background-color: #2f5241;
     color:#88ceba !important;
     min-width: 160px;
